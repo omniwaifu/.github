@@ -1,6 +1,6 @@
 # オムニワイフ
 
-projects I use for my personal assistant and tools / programs I use together. 
+projects I use for my personal assistant and tools / programs I use together. heavily based on personal workflows, so not going to do any promoting, etc. - but welcome issues/prs if you see any edge cases / better ways to do things, etc.
 
 ## projects
 
