@@ -11,4 +11,4 @@ projects relating to ai - tools / programs I use together. heavily based on pers
 
 ## faq
 
- * why that name - unno, the trope of ai anthromorphized in sci-fi/anime, etc. amuses me
+ * why that name - unno, the trope of ai anthropomorphized in sci-fi/anime, etc. amuses me
